@@ -1,0 +1,9 @@
+class Saludo:
+    def decir_hola(self):
+        print("¡Hola, mundo!")
+
+
+mi_saludo = Saludo()
+
+
+mi_saludo.decir_hola()
